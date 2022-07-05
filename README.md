@@ -13,6 +13,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=eyptunahnunl&show_icons=true&theme=tokyonight&locale=en&layout=compact" alt="eyptunahnunl" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=eyptunahnunl&show_icons=true&locale=en" alt="eyptunahnunl" /></p>
+
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=eyptunahnunl&theme=dark" alt="eyptunahnunl" /></p>
