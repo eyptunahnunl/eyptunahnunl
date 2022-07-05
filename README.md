@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Eyup Tunahan UNAL</h1>
-<h3 align="center">I'm Tuna from Turkey.I am a Geomatic Engineer and GIS Specialist. I do GIS Project and development. I really enjoy learning languages and frameworks like React and React Native.</h3>
+<h1 >Hi 👋, I'm Eyup Tunahan UNAL</h1>
+<h3 >I'm Tuna from Turkey.I am a Geomatic Engineer and GIS Specialist. I do GIS Project and development. I really enjoy learning languages and frameworks like React and React Native.</h3>
 
 - 💬 Ask me about **GIS Solution**
 
